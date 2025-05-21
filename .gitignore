@@ -6,8 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
-*.pdf 
 *.tsv
+Task_1/dataset.json
+archive/*
+
 
 # Distribution / packaging
 .Python
